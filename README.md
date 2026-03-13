@@ -8,7 +8,7 @@ Repositório criado para armazenar as atividades das aulas de **Algoritmo e Lóg
 |------|------|-----|--------------------|
 | [Aula 1](./aula%201) | 03/03/2026 | Terça | Introdução à lógica de programação e diagramas de fluxo |
 | [Aula 2](./aula%202) | 05/03/2026 | Quinta | Estruturas condicionais (`if`/`else`) e entrada de dados |
-| [Aula 3](./aula%203) | 10/03/2026 | Terça | Revisão, operadores lógicos e anotações do professor |
+| [Aula 3](./aula%203) | 10/03/2026 | Terça | Anotações do professor sobre Git e GitHub feitas durante a aula |
 | [Aula 4](./aula%204) | 12/03/2026 | Quinta | Estruturas de repetição (`while`, `for`) e listas |
 
 ## 📂 Estrutura do Repositório
