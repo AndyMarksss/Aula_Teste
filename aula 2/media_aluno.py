@@ -1,3 +1,5 @@
+### Cálculo de média e situação do aluno
+
 nota1 = float(input("Digite a nota 1: "))
 nota2 = float(input("Digite a nota 2: "))
 
