@@ -6,10 +6,10 @@ Repositório criado para armazenar as atividades das aulas de **Algoritmo e Lóg
 
 | Aula | Data | Dia | Conteúdo Principal |
 |------|------|-----|--------------------|
-| [Aula 1](./aula%201/README.md) | 03/03/2026 | Terça | Introdução à lógica de programação e diagramas de fluxo |
-| [Aula 2](./aula%202/README.md) | 05/03/2026 | Quinta | Estruturas condicionais (`if`/`else`) e entrada de dados |
-| [Aula 3](./aula%203/README.md) | 10/03/2026 | Terça | Revisão, operadores lógicos e anotações do professor |
-| [Aula 4](./aula%204/README.md) | 12/03/2026 | Quinta | Estruturas de repetição (`while`, `for`) e listas |
+| [Aula 1](./aula%201) | 03/03/2026 | Terça | Introdução à lógica de programação e diagramas de fluxo |
+| [Aula 2](./aula%202) | 05/03/2026 | Quinta | Estruturas condicionais (`if`/`else`) e entrada de dados |
+| [Aula 3](./aula%203) | 10/03/2026 | Terça | Revisão, operadores lógicos e anotações do professor |
+| [Aula 4](./aula%204) | 12/03/2026 | Quinta | Estruturas de repetição (`while`, `for`) e listas |
 
 ## 📂 Estrutura do Repositório
 
