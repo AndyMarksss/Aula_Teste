@@ -6,14 +6,22 @@ Terceira aula do curso de **Algoritmo e Lógica de Programação**.
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `anotacoes-prof.png` | Anotações do professor feitas durante a aula |
+| `anotacoes-prof.png` | Anotações do professor sobre Git e GitHub feitas durante a aula |
 
 ## 📝 Temas abordados
 
-- Revisão dos conceitos das aulas anteriores
-- Estruturas condicionais e operadores lógicos
-- Anotações e exemplos práticos registrados pelo professor
+- Introdução ao controle de versão
+- O que é Git e o que é GitHub
+- Diferença entre Git e GitHub
+- Criação e gerenciamento de repositórios
+- Comandos básicos do Git (`git init`, `git add`, `git commit`, `git push`, `git clone`)
+- Fluxo de trabalho com Git e GitHub
+
+## 🖼️ Anotações do Professor
+
+![Anotações do professor sobre Git e GitHub](anotacoes-prof.png)
 
 ## 🛠️ Tecnologias
 
-- **Python 3**
+- **Git**
+- **GitHub**
